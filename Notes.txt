@@ -1,0 +1,11 @@
+Possible issues in the django girls documentation:
+- Windows command to delete files/directories? Is it "del" or "rmdir"?
+  - Introduction to command line section
+
+- Python 3.4.4 is out. Should we be using that?
+
+- python no module _sqlite3
+  - http://stackoverflow.com/questions/1210664/no-module-named-sqlite3
+
+- Deploy section:
+  - "pip install django" instead of "pip install django==1.9"
