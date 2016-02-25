@@ -9,3 +9,8 @@ Possible issues in the django girls documentation:
 
 - Deploy section:
   - "pip install django" instead of "pip install django==1.9"
+
+Need to create a pull request for
+1. Django.carrots.pl is not available anymore. We should update link in credits 
+to them with this url: https://github.com/ggcarrots/django-carrots and remove 
+them from "What's next" recommendation list.
